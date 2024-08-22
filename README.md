@@ -1,4 +1,4 @@
-Hi 👋, I'm Shankara Narayanan
+<h3 align="center">Hi 👋, I'm Shankara Narayanan</h3>
 A passionate Frontend Developer from India
 
 🔭 I’m currently working on TAGCS Pvt Ltd<br />
