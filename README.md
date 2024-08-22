@@ -3,5 +3,5 @@
 
 🔭 I’m currently working on TAGCS Pvt Ltd</br>
 🌱 I’m currently learning Backend Technologies</br>
-📫 How to reach me shankaranarayanan1003@gmail.com</br>
+📫 How to reach me <a href="mailto:shankaranarayanan1003@gmail.com" style="color: #000">shankaranarayanan1003@gmail.com</a></br>
 ⚡ Fun fact I am Funny</br>
