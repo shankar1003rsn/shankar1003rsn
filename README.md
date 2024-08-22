@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Shankara Narayanan</h2>
-<p align="center"><em align="center">A passionate Frontend Developer from India</em></p>
+<h2 align="center">I'm Shankara Narayanan</h2>
+<p align="center"><em align="center">Innovative Frontend Developer based in India, specializing in dynamic and responsive web design</em></p>
 
 🔭 I’m currently working on TAGCS Pvt Ltd</br>
 🌱 I’m currently learning Backend Technologies</br>
